@@ -1,0 +1,96 @@
+#page4{
+    height: 90%;
+    width: 100%;  
+    display: flex;
+   
+   justify-content: space-between;
+   
+   
+  }
+  #tow1{
+    margin-left: 40px;
+     height: 300px;
+     width: 300px;
+     border-radius: 10px;
+      background-image: url(https://tse1.mm.bing.net/th?id=OIP.RP6BWsTjnpnzu3IC3iRY2AHaHa&pid=Api&P=0&h=220);
+      background-repeat: no-repeat;
+      background-size: contain;
+      display: flex;
+      justify-content: center;
+      align-items:end;  
+      box-shadow: 0 10px 20px rgb(163, 7, 46);
+  }
+  #tow1:hover{
+    box-shadow: 0 10px 20px rgb(21, 163, 104);
+  }
+  #b1{
+    height: 30px;
+    width: 80px;
+    border-radius: 10px;
+    background-color: rgb(0, 128, 21);
+      color: black;
+  
+   }
+  #b1:hover{
+     color: black;
+    z-index: 100px;
+    box-shadow: 0 10px 20px rgb(241, 237, 238);
+  }
+  #tow2{
+    margin-left: 40px;
+     height: 300px;
+     width: 300px;
+     border-radius: 10px;
+      background-image: url(https://tse2.mm.bing.net/th?id=OIP.daqriWLoqK0SVl-uTRfJBwHaHa&pid=Api&P=0&h=220);
+      background-repeat: no-repeat;
+      background-size: contain;
+      display: flex;
+      justify-content: center;
+      align-items:end;  
+      box-shadow: 0 10px 20px rgb(163, 7, 46);
+  }
+  #tow2:hover{
+    box-shadow: 0 10px 20px rgb(21, 163, 104);
+  }
+  #b2{
+    height: 30px;
+    width: 80px;
+    border-radius: 10px;
+    background-color: rgb(0, 128, 21);
+      color: black;
+  
+   }
+  #b2:hover{
+     color: black;
+    z-index: 100px;
+    box-shadow: 0 10px 20px rgb(241, 237, 238);
+  }
+  #tow3{
+    margin-right: 40px;
+     height: 300px;
+     width: 300px;
+     border-radius: 10px;
+      background-image: url(https://tse2.mm.bing.net/th?id=OIP.cPJgc89wsdM8jh7d60khcAHaHa&pid=Api&P=0&h=220);
+      background-repeat: no-repeat;
+      background-size: contain;
+      display: flex;
+      justify-content: center;
+      align-items:end;  
+      box-shadow: 0 10px 20px rgb(163, 7, 46);
+  }
+  #tow3:hover{
+    box-shadow: 0 10px 20px rgb(21, 163, 104);
+  }
+  #b3{
+    height: 30px;
+    width: 80px;
+    border-radius: 10px;
+    background-color: rgb(0, 128, 21);
+      color: black;
+  
+   }
+  #b3:hover{
+     color: black;
+    z-index: 100px;
+    box-shadow: 0 10px 20px rgb(241, 237, 238);
+  }

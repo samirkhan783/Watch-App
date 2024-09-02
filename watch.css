@@ -1,0 +1,271 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+html,body{
+height: 100%;
+width: 100%;
+}
+.main{
+    height: 100%;
+    width: 100%;
+   
+}
+#header{
+    height:10%;
+    width: 100%;
+   background-color:rgb(238, 76, 48);
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#page1{
+  height: 90%;
+  width: 100%;  
+  display: flex;
+ 
+ justify-content: space-between;
+ 
+ 
+}
+#page2{
+    height: 90%;
+    width: 100%;  
+   
+    display: flex;
+justify-content: space-between;
+   
+  }
+  #fh{
+    height: 10%;
+    width: 100%;  
+    background-color: white;
+  }
+  #logo:hover{
+ 
+  }
+  #about:hover{
+    background-color:rgb(172, 226, 248);
+    border-radius: 15px;
+     
+  }
+  #product:hover{
+    background-color:rgb(172, 226, 248);
+    border-radius: 15px;
+  }
+  #industries:hover{
+    background-color:rgb(172, 226, 248);
+    border-radius: 15px;
+  }
+  #customers:hover{
+    background-color:rgb(172, 226, 248);
+    border-radius: 15px;
+  }
+  #learning:hover{
+    background-color:rgb(172, 226, 248);
+    border-radius: 15px;
+  }
+  #more:hover{
+    background-color:rgb(172, 226, 248);
+    border-radius: 15px;
+  }
+  #conta:hover{
+    background-color:rgb(172, 226, 248);
+    border-radius: 15px;
+  }
+  #search:hover{
+    background-color:rgb(172, 226, 248);
+    border-radius: 15px;
+  }
+  #earth:hover{
+    background-color:rgb(172, 226, 248);
+    border-radius: 15px;
+  }
+  #login:hover{
+    background-color:rgb(172, 226, 248);
+    border-radius: 15px;
+  }
+  
+#onebox{
+  margin-left: 40px;
+   height: 300px;
+   width: 300px;
+   border-radius: 10px;
+    background-image: url(https://i.pinimg.com/originals/f1/0d/a1/f10da197c729efd5c82391b52346bc2e.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: flex;
+    justify-content: center;
+    align-items:end;  
+    box-shadow: 0 10px 20px rgb(163, 7, 46);
+}
+#onebox:hover{
+  box-shadow: 0 10px 20px rgb(21, 163, 104);
+}
+#b{
+  height: 30px;
+  width: 80px;
+  border-radius: 10px;
+  background-color: rgb(0, 128, 21);
+    color: black;
+
+ }
+#b:hover{
+   color: black;
+  z-index: 100px;
+  box-shadow: 0 10px 20px rgb(241, 237, 238);
+}
+#towbox{
+   
+   height: 300px;
+  width: 300px;
+  border-radius: 10px;
+  background-image: url( http://cdn2.jomashop.com/media/catalog/product/d/i/diesel-men_s-silver-dial-brown-leather-bracelet-watch-dz1273.jpg);
+  background-repeat: no-repeat;
+  background-size:contain;
+  box-shadow: 0 10px 20px rgb(163, 7, 46);
+  display: flex;
+  justify-content: center;
+  align-items:end;  
+}
+ #c{
+  height: 30px;
+  width: 80px;
+  border-radius: 10px;
+  background-color: rgb(0, 128, 21);
+    color: black;
+
+ }
+ #c:hover{
+  color: black;
+  z-index: 100px;
+  box-shadow: 0 10px 20px rgb(241, 237, 238);
+ }
+#towbox:hover{
+  box-shadow: 0 10px 20px rgb(21, 163, 104);
+}
+#threebox{
+  margin-right: 40px;
+   height: 300px;
+  width: 300px;
+  border-radius: 10px;
+  background-image: url(https://i.pinimg.com/originals/76/27/96/762796e83211ed80f6a3e5f2adcd9577.jpg);
+  background-repeat: no-repeat;
+    background-size: contain;
+    box-shadow: 0 10px 20px rgb(163, 7, 46);
+    display: flex;
+  justify-content: center;
+  align-items:end;  
+}
+#threebox:hover{
+  box-shadow: 0 10px 20px rgb(21, 163, 104);
+}
+  
+#d{
+  height: 30px;
+  width: 80px;
+  border-radius: 10px;
+  background-color: rgb(0, 128, 21);
+    color: black;
+}
+#d:hover{
+  color: black;
+  z-index: 100px;
+  box-shadow: 0 10px 20px rgb(241, 237, 238);
+  
+}
+#one{
+  margin-left: 40px;
+  height: 300px;
+  width: 300px;
+  border-radius: 10px;
+   
+  background-image: url(https://tse3.mm.bing.net/th?id=OIP.0ONOD9EGlAzRQ2weVqZK4wHaHa&pid=Api&P=0&h=220);
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: flex;
+  justify-content: center;
+  align-items:end;  
+  box-shadow: 0 10px 20px rgb(163, 7, 46);
+}
+#one:hover{
+  box-shadow: 0 10px 20px rgb(21, 163, 104);
+}
+#e{
+  height: 30px;
+  width: 80px;
+  border-radius: 10px;
+  background-color: rgb(0, 128, 21);
+    color: black;
+
+}
+#e:hover{
+  color: black;
+  z-index: 100px;
+  box-shadow: 0 10px 20px rgb(241, 237, 238);
+ }
+#tow{
+  
+  height: 300px;
+  width: 300px;
+  border-radius: 10px;
+   background-image: url( https://tse4.mm.bing.net/th?id=OIP.yd8l5taRfKDw6xuzgQ3v9wHaHa&pid=Api&P=0&h=220);
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: flex;
+  justify-content: center;
+  align-items:end;  
+  box-shadow: 0 10px 20px rgb(163, 7, 46);
+}
+#tow:hover{
+  box-shadow: 0 10px 20px rgb(21, 163, 104);
+}
+
+#f:hover{
+  color: black;
+  z-index: 100px;
+  box-shadow: 0 10px 20px rgb(241, 237, 238);
+ }
+ #f{
+  height: 30px;
+  width: 80px;
+  border-radius: 10px;
+  background-color: rgb(0, 128, 21);
+    color: black;
+
+}
+#three{
+  height: 300px;
+  width: 300px;
+  border-radius: 10px;
+ }
+#three{
+
+  margin-right: 40px;
+  height: 300px;
+  width: 300px;
+  border-radius: 10px;
+   background-image: url(https://i.pinimg.com/originals/05/ba/ec/05baecdf47b3f085212f12581b910a73.jpg );
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: flex;
+  justify-content: center;
+  align-items:end;  
+  box-shadow: 0 10px 20px rgb(163, 7, 46);
+}
+#g:hover{
+  color: black;
+  z-index: 100px;
+  box-shadow: 0 10px 20px rgb(241, 237, 238);
+}
+#g{
+  height: 30px;
+  width: 80px;
+  border-radius: 10px;
+  background-color: rgb(0, 128, 21);
+    color: black;
+}
+#three:hover{
+  box-shadow: 0 10px 20px rgb(21, 163, 104);
+}

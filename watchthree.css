@@ -1,0 +1,96 @@
+#page3{
+    height: 90%;
+    width: 100%;  
+    display: flex;
+   
+   justify-content: space-between;
+   
+   
+  }
+  #one1{
+    margin-left: 40px;
+     height: 300px;
+     width: 300px;
+     border-radius: 10px;
+      background-image: url(https://tse1.mm.bing.net/th?id=OIP.FrNYKyBdVDw5exa4WjD6_wHaHa&pid=Api&P=0&h=220);
+      background-repeat: no-repeat;
+      background-size: contain;
+      display: flex;
+      justify-content: center;
+      align-items:end;  
+      box-shadow: 0 10px 20px rgb(163, 7, 46);
+  }
+  #one1:hover{
+    box-shadow: 0 10px 20px rgb(21, 163, 104);
+  }
+  #a1{
+    height: 30px;
+    width: 80px;
+    border-radius: 10px;
+    background-color: rgb(0, 128, 21);
+      color: black;
+  
+   }
+  #a1:hover{
+     color: black;
+    z-index: 100px;
+    box-shadow: 0 10px 20px rgb(241, 237, 238);
+  }
+  #one2{
+    margin-left: 40px;
+     height: 300px;
+     width: 300px;
+     border-radius: 10px;
+      background-image: url(https://cf.shopee.com.my/file/bf36e1b8293cb50ef3ed9c9d025d9b06);
+      background-repeat: no-repeat;
+      background-size: contain;
+      display: flex;
+      justify-content: center;
+      align-items:end;  
+      box-shadow: 0 10px 20px rgb(163, 7, 46);
+  }
+  #one2:hover{
+    box-shadow: 0 10px 20px rgb(21, 163, 104);
+  }
+  #a2{
+    height: 30px;
+    width: 80px;
+    border-radius: 10px;
+    background-color: rgb(0, 128, 21);
+      color: black;
+  
+   }
+  #a2:hover{
+     color: black;
+    z-index: 100px;
+    box-shadow: 0 10px 20px rgb(241, 237, 238);
+  }
+  #one3{
+    margin-right: 40px;
+     height: 300px;
+     width: 300px;
+     border-radius: 10px;
+      background-image: url(https://tse2.mm.bing.net/th?id=OIP.imkrhQOmC0-3JrC50r9yKgHaHa&pid=Api&P=0&h=220);
+      background-repeat: no-repeat;
+      background-size: contain;
+      display: flex;
+      justify-content: center;
+      align-items:end;  
+      box-shadow: 0 10px 20px rgb(163, 7, 46);
+  }
+  #one3:hover{
+    box-shadow: 0 10px 20px rgb(21, 163, 104);
+  }
+  #a3{
+    height: 30px;
+    width: 80px;
+    border-radius: 10px;
+    background-color: rgb(0, 128, 21);
+      color: black;
+  
+   }
+  #a3:hover{
+     color: black;
+    z-index: 100px;
+    box-shadow: 0 10px 20px rgb(241, 237, 238);
+  }
